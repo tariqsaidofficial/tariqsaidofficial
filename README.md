@@ -4,7 +4,7 @@
 
 **Honorary Partner** at [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)  
 <br>
-<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:200px;" />
+<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:600px;" />
 
 I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. As Co‑Founder of **DXBMark** and an **Extron‑certified AV Associate**, I have more than **15 years' experience** in IT support and infrastructure planning, AV integration, WordPress and full‑stack web development, DevOps, and live event technology. I build platforms that scale, connect and inspire, and I've managed conferences, webinars and live broadcasts across the UAE and beyond. Collaborating with partners worldwide, I deliver seamless web and mobile solutions, media streaming services and sophisticated AV systems tailored to modern business needs.
 
