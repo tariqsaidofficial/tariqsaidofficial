@@ -8,6 +8,10 @@
 I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. As Co‑Founder of **DXBMark** and an **Extron‑certified AV Associate**, I draw on more than **15 years' expertise** in IT support & infrastructure planning, AV integration, dynamic WordPress and full‑stack web development, DevOps, and live event technology:contentReference[oaicite:0]{index=0}. I build platforms that scale, connect and inspire, and I've managed conferences, webinars and live broadcasts across the UAE and beyond. Collaborating with partners worldwide, I deliver seamless web and mobile solutions, media streaming services and sophisticated AV systems tailored to modern business needs.
 
 ---
+I have more than fifteen years of experience in IT support and AV integration[^1].
+
+[^1]: Source: My Gravatar biography, which states “Co‑Founder of DXBMark… 15+ years of expertise, Audio‑Visual & Media Specialist, IT support & Infrastructure Planner”:contentReference[oaicite:0]{index=0}.
+
 
 ## 🔧 Tech Stack & Skills
 
