@@ -2,9 +2,8 @@
 
 **Co‑Founder & Senior Full‑Stack Developer at DXBMark** · **AV/IT Executive & Event Tech Planner** · **Certified AI Prompt Engineer** · **Crestron & Extron Certified AV Technician**
 
-**Honorary Partner** at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/)
-<br>
-<img src="https://i.ibb.co/q33fYXwv/Screenshot-2025-10-14-at-3-06-11-PM.png" alt="Mowheba Advertising & Hosting" style="border-radius:15px;" />
+**Honorary Partner** at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/)  
+<img src="./assets/mwheba_logo.png" alt="Mowheba Advertising & Hosting" style="border-radius:15px;" />
 
 I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. As Co‑Founder of **DXBMark** and an **Extron‑certified AV Associate**, I draw on more than **15 years' expertise** in IT support & infrastructure planning, AV integration, dynamic WordPress and full‑stack web development, DevOps, and live event technology:contentReference[oaicite:0]{index=0}. I build platforms that scale, connect and inspire, and I've managed conferences, webinars and live broadcasts across the UAE and beyond. Collaborating with partners worldwide, I deliver seamless web and mobile solutions, media streaming services and sophisticated AV systems tailored to modern business needs.
 
@@ -45,14 +44,14 @@ I craft human‑centred digital experiences that bridge **software development**
 
 ### 🛠 Programming & Open‑Source
 - **[MissingCore Music Bot](https://github.com/MissingCore-Bot/Music)** – Contributed Arabic localisation to this music streaming bot for Discord.<br>
-  <img src="https://raw.githubusercontent.com/MissingCore-Bot/Music/dev/.github/assets/SOCIAL_PREVIEW_v2.png" alt="MissingCore Music Bot" style="border-radius:15px;" />
+  <img src="./assets/missingcore.png" alt="MissingCore Music Bot" style="border-radius:15px;" />
 - **[Montera Digital Signage](https://github.com/tariqsaidofficial/montera-signage)** – Architect and developer of a smart cloud signage platform that turns any screen into a dynamic content display.
 - **[NFC Manager](https://github.com/tariqsaidofficial/nfcManager)** – Designed an Android app inspired by Nothing OS to manage NFC tags securely, prioritising privacy and security monitoring.<br>
-  <img src="https://i.ibb.co/1fF79GFh/nfc-svgrepo-com.png" alt="NFC Manager Logo" style="border-radius:15px;width:60px;vertical-align:middle;" /><br>
-  <img src="https://i.ibb.co/M52cSw6t/Screenshot-20250907-181218.png" alt="NFC Manager Screenshot 1" style="border-radius:15px;width:23%;" />
-  <img src="https://i.ibb.co/r2LHMwVm/Screenshot-20250907-181349.png" alt="NFC Manager Screenshot 2" style="border-radius:15px;width:23%;" />
-  <img src="https://i.ibb.co/Q74165Nj/Screenshot-20250909-105153.png" alt="NFC Manager Screenshot 3" style="border-radius:15px;width:23%;" />
-  <img src="https://i.ibb.co/cSD47nkL/Screenshot-20250907-181144.png" alt="NFC Manager Screenshot 4" style="border-radius:15px;width:23%;" />
+  <img src="./assets/nfc_logo.png" alt="NFC Manager Logo" style="border-radius:15px;width:60px;vertical-align:middle;" /><br>
+  <img src="./assets/nfc1.png" alt="NFC Manager Screenshot 1" style="border-radius:15px;width:23%;" />
+  <img src="./assets/nfc2.png" alt="NFC Manager Screenshot 2" style="border-radius:15px;width:23%;" />
+  <img src="./assets/nfc3.png" alt="NFC Manager Screenshot 3" style="border-radius:15px;width:23%;" />
+  <img src="./assets/nfc4.png" alt="NFC Manager Screenshot 4" style="border-radius:15px;width:23%;" />
 
 ### 🌐 Web Development
 - **[DXBMark](https://dxbmark.com)** – Built and maintain the official company website and a suite of web tools at [tools.dxbmark.com](https://tools.dxbmark.com) delivering online utilities.
@@ -87,7 +86,7 @@ An integrated mobile application that combines travel services (hotel booking), 
 
 [Repository](https://github.com/tariqsaidofficial/travelify)
 
-<img src="https://i.ibb.co/NvsTmqV/App-Screenshot.jpg" alt="Travelify App Screenshot" style="border-radius:15px;" />
+<img src="./assets/travelify.png" alt="Travelify App Screenshot" style="border-radius:15px;" />
 
 ## ⭐ Pinned Repositories
 📌 **Coming soon.** I'll be pinning select repositories here to showcase recent work once they are ready for public release.
