@@ -46,8 +46,11 @@ I craft human‑centred digital experiences that bridge **software development**
 
 ### 🛠 Programming & Open‑Source
 - **[MissingCore Music Bot](https://github.com/MissingCore-Bot/Music)** – Contributed Arabic localisation to this music streaming bot for Discord.<br>
+
   <img src="./assets/missingcore.png" alt="MissingCore Music Bot" style="border-radius:15px;" />
+---
 - **[Montera Digital Signage](https://github.com/tariqsaidofficial/montera-signage)** – Architect and developer of a smart cloud signage platform that turns any screen into a dynamic content display.
+---
 - **[NFC Manager](https://github.com/tariqsaidofficial/nfcManager)** – Designed an Android app inspired by Nothing OS to manage NFC tags securely, prioritising privacy and security monitoring.<br>
   <img src="./assets/nfc_logo.png" alt="NFC Manager Logo" style="border-radius:15px;width:60px;vertical-align:middle;" /><br>
   <img src="./assets/nfc1.png" alt="NFC Manager Screenshot 1" style="border-radius:15px;width:23%;" />
