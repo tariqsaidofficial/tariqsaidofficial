@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm **Tariq Said**
 
-**Full‑Stack Developer & AV/IT Specialist** · **Certified in AI Prompt Engineering** · **Crestron Certified Audio Tech** · **Extron AV Associate** · **Event Tech Planner** · **Web–Mobile App Developer** · **Honorary Partner at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/)**
+**Full‑Stack Developer & AV/IT Specialist** · **Certified in AI Prompt Engineering** · **Crestron Certified Audio Tech** · **Extron AV Associate** · **Event Tech Planner** · **Web–Mobile App Developer**
+
+**Honorary Partner** at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/) *(logos coming soon)*
 
 I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. With more than **15 years' experience** spanning IT, media production and event management, I build platforms that scale, connect and inspire. I lead development at **DXBMark** and collaborate with partners around the globe to deliver seamless web and mobile solutions, media streaming services, and sophisticated AV systems.
 
@@ -8,53 +10,32 @@ I craft human‑centred digital experiences that bridge **software development**
 
 ## 🔧 Tech Stack & Skills
 
-### Languages
-| Language | Proficiency |
-|---|---|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | █████████░░ 90% |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | █████████░░ 90% |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ████████░░░ 80% |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ███████░░░░ 70% |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | ██████░░░░░ 60% |
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MinIO](https://img.shields.io/badge/-MinIO-F54C46?style=flat&logo=minio&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MinIO](https://img.shields.io/badge/-MinIO-F54C46?style=flat&logo=minio&logoColor=white) ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-### Real‑Time & Communication
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-35495E?style=flat&logo=websockets&logoColor=white)
+#### Real‑Time & Communication
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-35495E?style=flat&logo=websockets&logoColor=white)
 
-### Payment & E‑Commerce
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+#### Payment & E‑Commerce
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![MinIO](https://img.shields.io/badge/-MinIO-F54C46?style=flat&logo=minio&logoColor=white)
+#### Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat) ![Auth & Authorization](https://img.shields.io/badge/Auth%20%26%20Authorization-8A2BE2?style=flat) ![Redocly](https://img.shields.io/badge/Redocly-E53E3E?style=flat) ![Swagger UI](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=flat) ![Fake Data](https://img.shields.io/badge/Fake%20Data-F57C00?style=flat)
 
-### Mobile Development
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+#### Mobile Development
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+#### IT & Systems
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-00AAFF?style=flat) ![IFTTT](https://img.shields.io/badge/-IFTTT-0000FF?style=flat&logo=ifttt&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white) ![Home Automation](https://img.shields.io/badge/-Home%20Automation-4CAF50?style=flat)
 
 ---
 
@@ -76,6 +57,18 @@ With over four years directing live events and conferences, I specialise in tech
 - **Egyptian Congress of Pediatric Pulmonology (ECPP)** – [egyptiancpp.org](https://egyptiancpp.org/)
 - **Grand Clinical Round Conference (GCR)** – series of in‑hospital clinical rounds for medical professionals.
 - **The Egyptian Association for Health Economics (EAHE)** – [eahe.xyz](https://eahe.xyz/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tariqsaidofficial&show_icons=true&theme=radical" alt="Tariq's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsaidofficial&layout=compact&theme=radical" alt="Top languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqsaidofficial&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
