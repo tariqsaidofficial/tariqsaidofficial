@@ -4,7 +4,8 @@
 
 **Honorary Partner** at [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)  
 <br>
-<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:600px;" />
+<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:100%;max-width:400px;display:block;margin:20px auto;" />
+
 
 I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. As Co‑Founder of **DXBMark** and an **Extron‑certified AV Associate**, I have more than **15 years' experience** in IT support and infrastructure planning, AV integration, WordPress and full‑stack web development, DevOps, and live event technology. I build platforms that scale, connect and inspire, and I've managed conferences, webinars and live broadcasts across the UAE and beyond. Collaborating with partners worldwide, I deliver seamless web and mobile solutions, media streaming services and sophisticated AV systems tailored to modern business needs.
 
@@ -102,13 +103,13 @@ Monitor the health and availability of the key services I operate. These badges 
 ### 🌐 Web Development
 
 **[DXBMark](https://dxbmark.com)** – Built and maintain the official company website and a suite of web tools at [tools.dxbmark.com](https://tools.dxbmark.com) delivering online utilities.  
-📊 **Impact:** 10K+ users | 98.7% uptime
+📊 **Impact:** 3K+ users | 98.7% uptime
 
 **[Media Server as‑a‑Service](https://media.dxbmark.com)** – Developed a scalable streaming platform for hosting and serving media content, akin to a self‑hosted Netflix.  
 📊 **Impact:** 500+ concurrent streams | 99.2% uptime
 
-**[Northern Estates](https://northernestates.ae)** – Co‑founder and developer of a leading real‑estate platform in Dubai.  
-📊 **Impact:** 5K+ active users | 850+ properties | 99.1% uptime
+**[Northern Estates](https://northernestates.ae)** – Co‑founder and developer of a leading real‑estate platform in Dubai,UAE.  
+📊 **Impact:** 10K+ active users | 500+ properties | 99.1% uptime
 
 ---
 
