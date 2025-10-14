@@ -1,10 +1,12 @@
 # 👋 Hi there, I'm **Tariq Said**
 
-**Full‑Stack Developer & AV/IT Specialist** · **Certified in AI Prompt Engineering** · **Crestron Certified Audio Tech** · **Extron AV Associate** · **Event Tech Planner** · **Web–Mobile App Developer**
+**Co‑Founder & Senior Full‑Stack Developer at DXBMark** · **AV/IT Executive & Event Tech Planner** · **Certified AI Prompt Engineer** · **Crestron & Extron Certified AV Technician**
 
-**Honorary Partner** at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/) *(logos coming soon)*
+**Honorary Partner** at [Mowheba Advertising](https://www.mwheba.com/) & [Mowheba Hosting](https://mwheba.net/)
+<br>
+<img src="https://i.ibb.co/q33fYXwv/Screenshot-2025-10-14-at-3-06-11-PM.png" alt="Mowheba Advertising & Hosting" style="border-radius:15px;" />
 
-I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. With more than **15 years' experience** spanning IT, media production and event management, I build platforms that scale, connect and inspire. I lead development at **DXBMark** and collaborate with partners around the globe to deliver seamless web and mobile solutions, media streaming services, and sophisticated AV systems.
+I craft human‑centred digital experiences that bridge **software development**, **audio‑visual integration** and **live event technology**. As Co‑Founder of **DXBMark** and an **Extron‑certified AV Associate**, I draw on more than **15 years' expertise** in IT support & infrastructure planning, AV integration, dynamic WordPress and full‑stack web development, DevOps, and live event technology:contentReference[oaicite:0]{index=0}. I build platforms that scale, connect and inspire, and I've managed conferences, webinars and live broadcasts across the UAE and beyond. Collaborating with partners worldwide, I deliver seamless web and mobile solutions, media streaming services and sophisticated AV systems tailored to modern business needs.
 
 ---
 
@@ -42,9 +44,15 @@ I craft human‑centred digital experiences that bridge **software development**
 ## 💡 Professional Projects & Contributions
 
 ### 🛠 Programming & Open‑Source
-- **[MissingCore Music Bot](https://github.com/MissingCore-Bot/Music)** – Contributed Arabic localisation to this music streaming bot for Discord.
+- **[MissingCore Music Bot](https://github.com/MissingCore-Bot/Music)** – Contributed Arabic localisation to this music streaming bot for Discord.<br>
+  <img src="https://raw.githubusercontent.com/MissingCore-Bot/Music/dev/.github/assets/SOCIAL_PREVIEW_v2.png" alt="MissingCore Music Bot" style="border-radius:15px;" />
 - **[Montera Digital Signage](https://github.com/tariqsaidofficial/montera-signage)** – Architect and developer of a smart cloud signage platform that turns any screen into a dynamic content display.
-- **[NFC Manager](https://github.com/tariqsaidofficial/nfcManager)** – Designed an Android app inspired by Nothing OS to manage NFC tags securely, prioritising privacy and security monitoring.
+- **[NFC Manager](https://github.com/tariqsaidofficial/nfcManager)** – Designed an Android app inspired by Nothing OS to manage NFC tags securely, prioritising privacy and security monitoring.<br>
+  <img src="https://i.ibb.co/1fF79GFh/nfc-svgrepo-com.png" alt="NFC Manager Logo" style="border-radius:15px;width:60px;vertical-align:middle;" /><br>
+  <img src="https://i.ibb.co/M52cSw6t/Screenshot-20250907-181218.png" alt="NFC Manager Screenshot 1" style="border-radius:15px;width:23%;" />
+  <img src="https://i.ibb.co/r2LHMwVm/Screenshot-20250907-181349.png" alt="NFC Manager Screenshot 2" style="border-radius:15px;width:23%;" />
+  <img src="https://i.ibb.co/Q74165Nj/Screenshot-20250909-105153.png" alt="NFC Manager Screenshot 3" style="border-radius:15px;width:23%;" />
+  <img src="https://i.ibb.co/cSD47nkL/Screenshot-20250907-181144.png" alt="NFC Manager Screenshot 4" style="border-radius:15px;width:23%;" />
 
 ### 🌐 Web Development
 - **[DXBMark](https://dxbmark.com)** – Built and maintain the official company website and a suite of web tools at [tools.dxbmark.com](https://tools.dxbmark.com) delivering online utilities.
@@ -73,7 +81,13 @@ With over four years directing live events and conferences, I specialise in tech
 ---
 
 ## 📌 Current Focus
-🚧 **Soon.** I'm currently preparing detailed updates on my ongoing research and development projects. Stay tuned for insights on AI‑assisted media systems, cloud‑native streaming solutions, and next‑generation web tooling.
+
+### Travelify – Comprehensive Travel Platform
+An integrated mobile application that combines travel services (hotel booking), e‑commerce, and digital services in one platform.
+
+[Repository](https://github.com/tariqsaidofficial/travelify)
+
+<img src="https://i.ibb.co/NvsTmqV/App-Screenshot.jpg" alt="Travelify App Screenshot" style="border-radius:15px;" />
 
 ## ⭐ Pinned Repositories
 📌 **Coming soon.** I'll be pinning select repositories here to showcase recent work once they are ready for public release.
