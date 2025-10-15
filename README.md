@@ -226,6 +226,14 @@ An integrated mobile application that combines travel services (hotel booking), 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqsaidofficial&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&hide_border=false&border_color=30363D" alt="GitHub Activity Graph" width="95%" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tariqsaidofficial/tariqsaidofficial/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tariqsaidofficial/tariqsaidofficial/output/github-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/tariqsaidofficial/tariqsaidofficial/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
 
 ---
 
