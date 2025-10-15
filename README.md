@@ -127,18 +127,30 @@ With over 4 years directing live events and conferences, I specialise in technic
 ## 📊 GitHub Stats & Activity
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=tariqsaidofficial&show_icons=true&theme=github_light&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&icon_color=58A6FF&border_color=30363D&border_radius=10" alt="Tariq's GitHub stats" style="width:100%;max-width:400px;"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsaidofficial&layout=compact&theme=github_light&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&border_color=30363D&border_radius=10" alt="Top languages" style="width:100%;max-width:400px;"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=tariqsaidofficial&show_icons=true&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&icon_color=58A6FF&border_color=30363D&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200&v=1"
+        alt="Tariq's GitHub stats"
+        width="400"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsaidofficial&layout=compact&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&border_color=30363D&border_radius=10&card_width=400&cache_seconds=7200&v=1"
+        alt="Top languages"
+        width="400"
+      />
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqsaidofficial&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=58A6FF&dates=E6EDF3&border=30363D" alt="GitHub streak" style="width:100%;max-width:500px;border-radius:10px;"/>
+  <img
+    src="https://github-readme-streak-stats.vercel.app?user=tariqsaidofficial&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6A00&currStreakNum=E6EDF3&currStreakLabel=58A6FF&sideNums=E6EDF3&sideLabels=58A6FF&dates=E6EDF3&border=30363D&hide_border=false&locale=en&cache_seconds=7200&v=1"
+    alt="GitHub streak"
+    width="500"
+  />
 </div>
 
 ---
