@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I build **human-centred digital systems** that bridge **software development**, **audio-visual integration**, and **event technology**.  
 With 15+ years of experience in **IT infrastructure, AV systems**, and **full-stack web development**,  
@@ -29,7 +29,7 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 
 ---
 
-## 🏆 Certifications & Credentials
+## Certifications & Credentials
 
 | Logo | Certification | Issuer | Status |
 |:--:|---|---|---|
@@ -45,7 +45,7 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 | <img src="./assets/logos/jouly_academy.png" width="36" /> | **Next Danger (Metaverse / Web3) – 3rd Generation Internet** | CompuTony.com <br><sub><i>(Accredited by Jouly Academy UK)</i></sub> | ✅ Active |
 
 ---
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -143,9 +143,9 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 
 ---
 
-## 🌍 Professional Projects
+## Professional Projects
 
-### 🛠 [NFC Manager](https://github.com/tariqsaidofficial/nfcManager)
+### [NFC Manager](https://github.com/tariqsaidofficial/nfcManager)
 Android app for managing NFC tags securely, inspired by Nothing OS.
 
 <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:15px;">
@@ -189,7 +189,7 @@ An integrated mobile application that combines travel services (hotel booking), 
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <table align="center">
   <tr>
@@ -220,7 +220,7 @@ An integrated mobile application that combines travel services (hotel booking), 
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqsaidofficial&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&hide_border=false&border_color=30363D" alt="GitHub Activity Graph" width="95%" />
@@ -229,7 +229,7 @@ An integrated mobile application that combines travel services (hotel booking), 
 
 ---
 
-## 📋 Timeline & Experience
+## Timeline & Experience
 
 **2017 – 2025: Full Career Progression Across Multiple Domains**
 
@@ -244,7 +244,7 @@ Web Development (Full-Stack), DevOps & Infrastructure, Audio-Visual Integration,
 ---
 
 
-### 🎤 Conferences & Events
+### Conferences & Events
 
 With over 4 years directing live events and conferences, I specialise in technical planning and real-time execution for medical congresses and scientific gatherings:
 
@@ -255,7 +255,7 @@ With over 4 years directing live events and conferences, I specialise in technic
 
 ---
 
-## 📶 Service Status & Uptime
+## Service Status & Uptime
 
 Monitor the health and availability of the key services I operate. These badges update automatically to reflect whether the service is online or offline and display the uptime over the last 30 days.
 
@@ -267,7 +267,7 @@ Monitor the health and availability of the key services I operate. These badges 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 | Platform | Contact |
 |---|---|
