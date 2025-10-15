@@ -147,7 +147,7 @@ With over 4 years directing live events and conferences, I specialise in technic
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats-wheat-theta.vercel.app?user=tariqsaidofficial&theme=github-dark-blue&background=0D1117&border=30363D&dates=E6EDF3&ring=58A6FF&currStreakNum=E6EDF3&fire=FF6A00&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=58A6FF&cache_seconds=86400"
+    src="https://github-readme-streak-stats-wheat-theta.vercel.app/?user=tariqsaidofficial&theme=github-dark-blue&background=0D1117&border=30363D&dates=E6EDF3&ring=58A6FF&currStreakNum=E6EDF3&fire=FF6A00&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=58A6FF&cache_seconds=86400"
     alt="Tariq's GitHub Streak"
     width="500"
   />
