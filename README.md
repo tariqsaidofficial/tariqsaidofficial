@@ -2,10 +2,10 @@
 
 <!-- Typing Multi-Language Greeting -->
 <a href="https://github.com/tariqsaidofficial">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=58A6FF,FFD700&center=true&vCenter=true&width=800&lines=👋+Hi+there!;مرحبا+بك!;नमस्ते!;Привет!;你好!;Bonjour!;¡Hola!;Merhaba!;Ciao!;こんにちは!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=3000&pause=800&color=58A6FF,FFD700&center=true&vCenter=true&width=800&lines=👋+Hi+there!;مرحبا+بك!;你好!;¡Hola!;Bonjour!;नमस्ते!;Привет!;こんにちは!;Merhaba!;Ciao!" alt="Typing SVG" />
 </a>
 
-# **Tariq Said**
+# <sup>I'm</sup> **Tariq Said**
 ### **Full-Stack Developer • AV/IT Integration Specialist**
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tariqsaidofficial.visitor-badge)](https://github.com/tariqsaidofficial)
