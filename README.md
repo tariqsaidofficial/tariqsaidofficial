@@ -2,7 +2,7 @@
 
 <!-- Typing Multi-Language Greeting -->
 <a href="https://github.com/tariqsaidofficial">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=3000&pause=800&color=58A6FF,FFD700&center=true&vCenter=true&width=800&lines=👋+Hi+there!;مرحبا+بك!;你好!;¡Hola!;Bonjour!;नमस्ते!;Привет!;こんにちは!;Merhaba!;Ciao!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&duration=3000&pause=800&color=58A6FF,FFD700&center=true&vCenter=true&width=800&lines=👋+Hi+there!;مرحبا+بك!;你好!;¡Hola!;Bonjour!;नमस्ते!;Привет!;こんにちは!;Merhaba!;Ciao!" alt="Typing SVG" />
 </a>
 
 # <sup>I'm</sup> **Tariq Said**
@@ -158,7 +158,7 @@ Android app for managing NFC tags securely, inspired by Nothing OS.
 ---
 
 ### [DXBMark](https://dxbmark.com)
-Official company website & digital services platform.  
+Official company website and a suite of web tools at [tools.dxbmark.com](https://tools.dxbmark.com) delivering online utilities.  
 📊 **Impact:** 3K+ users | 98.7% uptime
 
 <img src="./assets/dxbmark-screenshot.png" alt="DXBMark Screenshot" style="border-radius:20px;width:100%;max-width:400px;display:block;margin:20px auto;" />
@@ -166,13 +166,13 @@ Official company website & digital services platform.
 ---
 
 ### [Media Server-as-a-Service](https://media.dxbmark.com)
-Scalable media streaming platform (self-hosted Netflix).  
+Scalable streaming platform for hosting and serving media content, akin to a self-hosted Netflix.  
 📊 **Impact:** 500+ concurrent streams | 99.2% uptime
 
 ---
 
 ### [Northern Estates](https://northernestates.ae)
-Real-estate management & listing platform (Dubai).  
+Co-founder and developer of a leading real-estate platform in Dubai, UAE.  
 📊 **Impact:** 10K+ active users | 500+ properties | 99.1% uptime
 
 <img src="./assets/northernestate-screenshot.png" alt="Northern Estates Screenshot" style="border-radius:20px;width:100%;max-width:400px;display:block;margin:20px auto;" />
@@ -226,18 +226,6 @@ An integrated mobile application that combines travel services (hotel booking), 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqsaidofficial&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&hide_border=false&border_color=30363D" alt="GitHub Activity Graph" width="95%" />
 </div>
 
----
-
-
-## 📶 Service Status & Uptime
-
-Monitor the health and availability of the key services I operate. These badges update automatically to reflect whether the service is online or offline and display the uptime over the last 30 days.
-
-| Service | Status | Uptime (30 d) |
-| --- | --- | --- |
-| **DXBMark** | [![DXBMark Status](https://img.shields.io/uptimerobot/status/m801576797-c77f7b34b80c277c999378f9?label=DXBMark&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![DXBMark Uptime](https://img.shields.io/uptimerobot/ratio/m801576797-c77f7b34b80c277c999378f9?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
-| **Northern Estates** | [![Northern Estates Status](https://img.shields.io/uptimerobot/status/m801576821-ff322a02e26101e1153957a2?label=Northern%20Estates&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![Northern Estates Uptime](https://img.shields.io/uptimerobot/ratio/m801576821-ff322a02e26101e1153957a2?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
-| **MWHEBA** | [![MWHEBA Status](https://img.shields.io/uptimerobot/status/m801576823-636c1dec40ef4cc4ae7d8188?label=MWHEBA&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![MWHEBA Uptime](https://img.shields.io/uptimerobot/ratio/m801576823-636c1dec40ef4cc4ae7d8188?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
 
 ---
 
@@ -255,18 +243,6 @@ Web Development (Full-Stack), DevOps & Infrastructure, Audio-Visual Integration,
 
 ---
 
-### 🌐 Web Development
-
-**[DXBMark](https://dxbmark.com)** – Built and maintain the official company website and a suite of web tools at [tools.dxbmark.com](https://tools.dxbmark.com) delivering online utilities.  
-📊 **Impact:** 3K+ users | 98.7% uptime  
-
-**[Media Server as-a-Service](https://media.dxbmark.com)** – Developed a scalable streaming platform for hosting and serving media content, akin to a self-hosted Netflix.  
-📊 **Impact:** 500+ concurrent streams | 99.2% uptime  
-
-**[Northern Estates](https://northernestates.ae)** – Co-founder and developer of a leading real-estate platform in Dubai, UAE.  
-📊 **Impact:** 10K+ active users | 500+ properties | 99.1% uptime
-
----
 
 ### 🎤 Conferences & Events
 
@@ -276,6 +252,18 @@ With over 4 years directing live events and conferences, I specialise in technic
 - **[Egyptian Congress of Pediatric Pulmonology (ECPP)](https://egyptiancpp.org/)** – 300+ participants | International reach  
 - **Grand Clinical Round Conference (GCR)** – Series of in-hospital clinical rounds for medical professionals | 50+ events  
 - **[The Egyptian Association for Health Economics (EAHE)](https://eahe.xyz/)** – Ongoing partnership
+
+---
+
+## 📶 Service Status & Uptime
+
+Monitor the health and availability of the key services I operate. These badges update automatically to reflect whether the service is online or offline and display the uptime over the last 30 days.
+
+| Service | Status | Uptime (30 d) |
+| --- | --- | --- |
+| **DXBMark** | [![DXBMark Status](https://img.shields.io/uptimerobot/status/m801576797-c77f7b34b80c277c999378f9?label=DXBMark&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![DXBMark Uptime](https://img.shields.io/uptimerobot/ratio/m801576797-c77f7b34b80c277c999378f9?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
+| **Northern Estates** | [![Northern Estates Status](https://img.shields.io/uptimerobot/status/m801576821-ff322a02e26101e1153957a2?label=Northern%20Estates&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![Northern Estates Uptime](https://img.shields.io/uptimerobot/ratio/m801576821-ff322a02e26101e1153957a2?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
+| **MWHEBA** | [![MWHEBA Status](https://img.shields.io/uptimerobot/status/m801576823-636c1dec40ef4cc4ae7d8188?label=MWHEBA&up_message=UP&down_message=DOWN&up_color=0A66C2&down_color=DC3545&style=flat-square)](https://uptimerobot.com) | [![MWHEBA Uptime](https://img.shields.io/uptimerobot/ratio/m801576823-636c1dec40ef4cc4ae7d8188?label=Uptime&style=flat-square&color=0A66C2)](https://uptimerobot.com) |
 
 ---
 
