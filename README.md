@@ -130,14 +130,14 @@ With over 4 years directing live events and conferences, I specialise in technic
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=tariqsaidofficial&show_icons=true&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&icon_color=58A6FF&border_color=30363D&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=3600"
+        src="https://github-readme-stats.vercel.app/api?username=tariqsaidofficial&show_icons=true&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&icon_color=58A6FF&border_color=30363D&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200"
         alt="Tariq's GitHub stats"
         width="400"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsaidofficial&layout=compact&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&border_color=30363D&border_radius=10&card_width=400&cache_seconds=3600"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsaidofficial&layout=compact&theme=github_dark&bg_color=0D1117&text_color=E6EDF3&title_color=58A6FF&border_color=30363D&border_radius=10&card_width=400&cache_seconds=7200"
         alt="Top languages"
         width="400"
       />
@@ -147,8 +147,8 @@ With over 4 years directing live events and conferences, I specialise in technic
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=tariqsaidofficial&theme=github-dark-blue&background=0D1117&border=30363D&dates=E6EDF3&ring=58A6FF&currStreakNum=E6EDF3&fire=FF6A00&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=58A6FF&cache_seconds=86400&v=2"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats-wheat-theta.vercel.app?user=tariqsaidofficial&theme=github-dark-blue&background=0D1117&border=30363D&dates=E6EDF3&ring=58A6FF&currStreakNum=E6EDF3&fire=FF6A00&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=58A6FF&cache_seconds=86400"
+    alt="Tariq's GitHub Streak"
     width="500"
   />
 </div>
