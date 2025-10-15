@@ -161,6 +161,8 @@ Android app for managing NFC tags securely, inspired by Nothing OS.
 Official company website & digital services platform.  
 📊 **Impact:** 3K+ users | 98.7% uptime
 
+<img src="./assets/dxbmark-screenshot.png" alt="DXBMark Screenshot" style="border-radius:20px;width:100%;max-width:400px;display:block;margin:20px auto;" />
+
 ---
 
 ### [Media Server-as-a-Service](https://media.dxbmark.com)
@@ -173,6 +175,8 @@ Scalable media streaming platform (self-hosted Netflix).
 Real-estate management & listing platform (Dubai).  
 📊 **Impact:** 10K+ active users | 500+ properties | 99.1% uptime
 
+<img src="./assets/northernestate-screenshot.png" alt="Northern Estates Screenshot" style="border-radius:20px;width:100%;max-width:400px;display:block;margin:20px auto;" />
+
 ---
 
 ### [Travelify – Comprehensive Travel Platform](https://github.com/tariqsaidofficial/travelify)
@@ -181,7 +185,7 @@ An integrated mobile application that combines travel services (hotel booking), 
 
 **Tech Stack:** Flutter, Python, PostgreSQL, Stripe Integration  
 
-<img src="./assets/travelify.png" alt="Travelify App Screenshot" style="border-radius:15px;width:100%;max-width:400px;display:block;margin:20px auto;" />
+<img src="./assets/travelify.png" alt="Travelify App Screenshot" style="border-radius:20px;width:100%;max-width:400px;display:block;margin:20px auto;" />
 
 ---
 
