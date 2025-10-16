@@ -33,7 +33,7 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 
 | Logo | Certification | Issuer | Status |
 |:--:|---|---|---|
-| <img src="./assets/logos/Dubai_future.svg" width="36" /> | **AI Prompt Engineering (1 Million Prompters)** | Dubai Future Foundation | ✅ Active |
+| <img src="./assets/logos/Dubai_future.png" width="36" /> | **AI Prompt Engineering (1 Million Prompters)** | Dubai Future Foundation | ✅ Active |
 | <img src="./assets/logos/crestron.png" width="36" /> | **Certified Audio Technician** | Crestron Electronics | ✅ Active |
 | <img src="./assets/logos/microsoft.png" width="36" /> | **Certified Microsoft Innovative Educator** | Microsoft | ✅ Active |
 | <img src="./assets/logos/microsoft.png" width="36" /> | **Assistive Technologies** | Microsoft | ✅ Active |
