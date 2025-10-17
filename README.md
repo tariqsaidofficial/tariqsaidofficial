@@ -40,7 +40,7 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 | <img src="./assets/logos/unesco.png" width="36" /> | **ICDL Syllabus v4.0** | UNESCO | ✅ Active |
 | <img src="./assets/logos/extron.png" width="36" /> | **AV Associate Certification** | Extron Electronics | ✅ Active |
 | <img src="./assets/logos/HP.jpg" width="36" /> | **Effective Presentations** | HP LIFE | ✅ Active |
-| <img src="./assets/logos/egypt_mom.svg" width="36" /> | **License to Practice an IT Profession** | Ministry of Manpower – Egypt | ✅ Active |
+| <img src="./assets/logos/egypt_mom.png" width="36" /> | **License to Practice an IT Profession** | Ministry of Manpower – Egypt | ✅ Active |
 | <img src="./assets/logos/jouly_academy.png" width="36" /> | **Certified Digital Citizen** | CompuTony.com <br><sub><i>(Accredited by Jouly Academy UK)</i></sub> | ✅ Active |
 | <img src="./assets/logos/jouly_academy.png" width="36" /> | **Next Danger (Metaverse / Web3) – 3rd Generation Internet** | CompuTony.com <br><sub><i>(Accredited by Jouly Academy UK)</i></sub> | ✅ Active |
 
