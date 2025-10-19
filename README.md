@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="assets/TariqSaid-logo-dark.png" alt="Tariq Said Logo" width="300">
+
+<br>
+
 ---
 
 ## About Me
