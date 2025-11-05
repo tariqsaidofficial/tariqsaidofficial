@@ -31,8 +31,9 @@ With 15+ years of experience in **IT infrastructure, AV systems**, and **full-st
 I deliver seamless, scalable solutions combining **engineering, creativity, and reliability**.
 
 **Honorary Partner** at [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)  
-<br>
-<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:65%;max-width:400px;display:block;margin:20px auto;" />
+<div align="center">
+<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:55%;max-width:400px;display:block;margin:20px auto;" />
+</div>
 
 ---
 
