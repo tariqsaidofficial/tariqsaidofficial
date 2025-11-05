@@ -32,7 +32,7 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 
 **Honorary Partner** at [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)  
 <br>
-<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:100%;max-width:400px;display:block;margin:20px auto;" />
+<img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:65%;max-width:400px;display:block;margin:20px auto;" />
 
 ---
 
