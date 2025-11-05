@@ -30,9 +30,11 @@ I build **human-centred digital systems** that bridge **software development**, 
 With 15+ years of experience in **IT infrastructure, AV systems**, and **full-stack web development**,  
 I deliver seamless, scalable solutions combining **engineering, creativity, and reliability**.
 
-**Honorary Partner** at [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)  
+
 <div align="center">
 <img src="./assets/mwheba_logo.png" alt="MWHEBA Advertising & Hosting" style="border-radius:15px;width:55%;max-width:400px;display:block;margin:20px auto;" />
+  
+**Honorary Partner** [MWHEBA Advertising](https://www.mwheba.com/) & [MWHEBA Hosting](https://mwheba.net/)
 </div>
 
 ---
