@@ -17,7 +17,14 @@
   </a>
 </p>
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tariqsaidofficial.visitor-badge)](https://github.com/tariqsaidofficial)
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/tariqsaidofficial">
+    <img src="https://img.shields.io/badge/Support%20Open%20Development-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariqsaidofficial/)
 [![Website](https://img.shields.io/badge/Website-dxbmark.com-58A6FF?style=flat&logo=google-chrome&logoColor=white)](https://dxbmark.com)
 [![Email](https://img.shields.io/badge/Email-info@dxbmark.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:info@dxbmark.com)
