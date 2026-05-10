@@ -9,11 +9,11 @@
 ### **Full-Stack Developer • AV/IT Integration Specialist**
 
 <p align="center">
-  <a href="https://education.github.com/experts">
-    <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-Verified-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Campus Expert" />
+  <a href="https://education.github.com/teachers">
+    <img src="https://img.shields.io/badge/GitHub%20Education-Faculty%20Verified-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Education Faculty Verified" />
   </a>
   <a href="https://github.com/settings/billing/summary">
-    <img src="https://img.shields.io/badge/GitHub%20Pro-Active-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+    <img src="https://img.shields.io/badge/GitHub%20Pro-Education%20Benefit-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro Education Benefit" />
   </a>
 </p>
 
@@ -66,31 +66,21 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 ---
 ## Tech Stack & Tools
 
-### Programming Languages
+### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-### Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-### Frontend Development
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -98,67 +88,44 @@ I deliver seamless, scalable solutions combining **engineering, creativity, and 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-F54C46?style=for-the-badge&logo=minio&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-### DevOps & Cloud
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%20UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Mobile Development
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-### Payment & E-Commerce
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-
----
-
-### AI, Data & Automation
+### AI, Automation & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00AEEF?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### IT, Systems & AV Integration
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+### AV, Systems & Integration
+![AV Integration](https://img.shields.io/badge/AV%20Integration-0A66C2?style=for-the-badge)
+![Event Technology](https://img.shields.io/badge/Event%20Technology-FF6A00?style=for-the-badge)
+![IT Infrastructure](https://img.shields.io/badge/IT%20Infrastructure-24292F?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-00AAFF?style=for-the-badge)
-![IFTTT](https://img.shields.io/badge/IFTTT-0000FF?style=for-the-badge&logo=ifttt&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 
 ---
 
-📊 **Skills Graph**
+## Current Focus
 
-![Skills Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Full-Stack%20Dev%22%2C%22AV%2FIT%20Systems%22%2C%22DevOps%22%2C%22Event%20Tech%22%2C%22AI%20Eng%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C80%2C25%2C30%2C35%5D%2C%22backgroundColor%22%3A%5B%22%2358A6FF%22%2C%22%23FFD700%22%2C%22%2332CD32%22%2C%22%23FF6A00%22%2C%22%239966FF%22%5D%2C%22borderColor%22%3A%22rgba(255%2C255%2C255%2C0.3)%22%2C%22borderWidth%22%3A1.5%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2275%25%22%2C%22layout%22%3A%7B%22padding%22%3A5%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22align%22%3A%22center%22%2C%22labels%22%3A%7B%22color%22%3A%22rgb(70%2C70%2C70)%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22500%22%7D%2C%22boxWidth%22%3A15%2C%22padding%22%3A10%7D%7D%7D%7D%7D&width=320&height=320&devicePixelRatio=2)
+- Building scalable Django, FastAPI and React systems.
+- Designing AI-assisted tools for automation, search and workflow support.
+- Integrating AV, IT infrastructure and event technology into reliable digital systems.
+- Improving deployment pipelines using Docker, GitHub Actions and cloud infrastructure.
 
 ---
 
