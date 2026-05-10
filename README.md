@@ -8,6 +8,15 @@
 # <sup>I'm</sup> **Tariq Said**
 ### **Full-Stack Developer • AV/IT Integration Specialist**
 
+<p align="center">
+  <a href="https://education.github.com/experts">
+    <img src="https://img.shields.io/badge/GitHub%20Campus%20Expert-Verified-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Campus Expert" />
+  </a>
+  <a href="https://github.com/settings/billing/summary">
+    <img src="https://img.shields.io/badge/GitHub%20Pro-Active-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+  </a>
+</p>
+
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tariqsaidofficial.visitor-badge)](https://github.com/tariqsaidofficial)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariqsaidofficial/)
 [![Website](https://img.shields.io/badge/Website-dxbmark.com-58A6FF?style=flat&logo=google-chrome&logoColor=white)](https://dxbmark.com)
